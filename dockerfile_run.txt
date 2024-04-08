@@ -1,0 +1,4 @@
+# Dockerfile_run
+FROM ubuntu:18.04
+
+RUN echo 'This is a Docker image with RUN command.'
